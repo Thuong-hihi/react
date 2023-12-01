@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "image": "https://picsum.photos/200/100",
+      "price": "123",
+      "desc": "giảm giá"
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 2",
+      "image": "https://picsum.photos/200/100",
+      "price": 200,
+      "desc": "khuyến mãi"
+    },
+    {
+      "id": 3,
+      "name": "Sản phẩm 3",
+      "image": "https://picsum.photos/200/100",
+      "price": 300,
+      "desc": "sale 20%"
+    },
+    {
+      "name": "Sản phẩm 4",
+      "image": "https://picsum.photos/200/100",
+      "price": "400",
+      "desc": "Mua 1 tặng 1",
+      "id": 4
+    },
+    {
+      "name": "Sản phẩm 5",
+      "image": "https://picsum.photos/200/100 ",
+      "price": "500",
+      "desc": "Khuyến mãi cực sốc",
+      "id": 5
+    },
+    {
+      "name": "Sản phẩm 6",
+      "image": "https://picsum.photos/200/100 ",
+      "price": "600",
+      "desc": "Chi ân khác hàng mới 30%",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "thuong03092003@gmail.com",
+      "password": "$2a$10$qjGIrHzL7BLm6asDatDT8em.xSxQd5RgEmqedt51qMoFKWAWWNcjq",
+      "username": "thuong",
+      "role": 1,
+      "id": 1
+    },
+    {
+      "email": "thuongttph29125@fpt.edu.vn",
+      "password": "$2a$10$AG8xg/3W.qHxZnvUTZEHrOzhRV3JicTYxqlKmabN4fn0AtuJEqw/q",
+      "username": "tghhhh",
+      "role": 0,
+      "id": 2
+    }
+  ],
+  "cart": []
+}
